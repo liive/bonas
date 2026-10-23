@@ -1,0 +1,43 @@
+{
+  "slug": "bonas",
+  "name": "Bonas",
+  "city": "Kaunas",
+  "address": "Ežero g. 8A, Kaunas",
+  "phone": "+37067224986",
+  "facebook": "https://www.facebook.com/kavine.bonas/",
+  "instagram": "",
+  "wolt": "",
+  "menu": "https://www.meniu.lt/uploads/restaurant/menu_document/3/3968/7cde8ee2df584d1a01272ea2ffd17461afbad53c.png",
+  "lunch": "https://www.facebook.com/kavine.bonas/",
+  "reservation": "",
+  "cuisine": "Namų virtuvė ir grilis",
+  "description": "Dienos pietūs, grilio patiekalai ir susitikimai prie ežero.",
+  "story_title": "Skani pertrauka prie ežero.",
+  "story": "Bonas kviečia dienos pietų Ežero gatvėje ir vaišių prie ežero. Čia taip pat ruošiamos banketų vaišės ir maistas išvežimui pagal užsakymą.",
+  "sources": [
+    "https://www.meniu.lt/restaurant/bonas",
+    "https://wanderlog.com/place/details/1822731/bonas",
+    "https://kaunasjuda.lt/en/places/bonas-be95691a"
+  ],
+  "photos": [
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/bonas/assets/photo-01.webp",
+      "source": "https://www.meniu.lt/restaurant/bonas",
+      "url": "https://static.meniu.lt/uploads/restaurant/photo/14/8174/4cb728feb9daf025d3ef73ed42cec7c8f114a95a.jpeg",
+      "alt": "Bonas grilio iešmeliai su ryžiais"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/bonas/assets/photo-02.webp",
+      "source": "https://www.meniu.lt/restaurant/bonas",
+      "url": "https://static.meniu.lt/uploads/restaurant/photo/14/32636/f56438ac5ccbf0f1673a049d10328b16be36d8a1.jpeg",
+      "alt": "Bonas nachos užkandis"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/bonas/assets/photo-03.webp",
+      "source": "https://wanderlog.com/place/details/1822731/bonas",
+      "url": "https://itin-dev.wanderlogstatic.com/freeImage/0nvhBZDfcsrMfvdRt23UaDkwNWdgxYuO",
+      "alt": "Ežeras prie Bonas"
+    }
+  ],
+  "notes": "Third photo lake from Wanderlog (not Meniu). Nachos image has incidental drink bottom left; food dominant. No verified Tablein or Instagram."
+}

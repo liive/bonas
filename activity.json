@@ -1,0 +1,24 @@
+{
+  "slug": "bonas",
+  "name": "Bonas",
+  "status": "active_indirect",
+  "checked_window": {
+    "from": "2026-09-15",
+    "to": "2026-10-15"
+  },
+  "facebook_url": "https://www.facebook.com/kavine.bonas/",
+  "post_date": "2026-10-08",
+  "post_url": null,
+  "evidence": "Findglocal mirror shows image post dated 08/10/2026 and another 28/09/2026 (takeaway order cutoff). Matching name Grill-Baras Bonas, Ežero8a address and official Facebook page ID448861285318033. Date is copied post date, not crawler timestamp. Direct Facebook unreadable.",
+  "lunch_url": "https://www.facebook.com/kavine.bonas/",
+  "lunch_evidence": "Facebook mirror profile description explicitly says daily lunch (Kiekvieną dieną siūlome gardžius ir pigius dienos pietus). No dated lunch post text visible; latest posts are images.",
+  "other_lunch_evidence": {
+    "url": "https://www.meniu.lt/restaurant/bonas",
+    "evidence": "Listing explicitly offers daily lunch; not Facebook evidence."
+  },
+  "mirror_check": "Exact matching mirror located and opened. Web ref turn125view0. Official numeric Facebook linked by mirror verified via turn129view0.",
+  "source_basis": "third-party Facebook mirror",
+  "source_url": "https://www.findglocal.com/LT/Kaunas/448861285318033/Grill-Baras-Bonas",
+  "facebook_id": "448861285318033",
+  "lunch_source_basis": "Facebook profile description via Findglocal mirror"
+}

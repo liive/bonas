@@ -1,0 +1,29 @@
+[
+  {
+    "file": "assets/dessert-edited.webp",
+    "source": "https://img05.restaurantguru.com/r233-Bonas-food-2025-12-2.jpg",
+    "source_page": "https://restaurantguru.com/Kavine-Bonas-Kaunas",
+    "edited_with": "built-in ImageGen",
+    "changes": "Natural light and colour correction; decorative cartoon removed; original dish retained."
+  },
+  {
+    "file": "assets/dishes-edited.webp",
+    "source": "https://img05.restaurantguru.com/refd-Bonas-dishes-2025-12-1.jpg",
+    "source_page": "https://restaurantguru.com/Kavine-Bonas-Kaunas",
+    "edited_with": "built-in ImageGen",
+    "changes": "Natural light and colour correction; decorative cartoon removed; original dish retained."
+  },
+  {
+    "file": "assets/hot-dish-edited.webp",
+    "source": "https://img05.restaurantguru.com/rf3a-dishes-Bonas-2025-12.jpg",
+    "source_page": "https://restaurantguru.com/Kavine-Bonas-Kaunas",
+    "edited_with": "built-in ImageGen",
+    "changes": "Natural light and colour correction; decorative cartoon removed; original dish retained."
+  },
+  {
+    "file": "assets/canapes.webp",
+    "source": "https://img05.restaurantguru.com/r08d-dishes-Bonas.jpg",
+    "source_page": "https://restaurantguru.com/Kavine-Bonas-Kaunas",
+    "edited": false
+  }
+]
